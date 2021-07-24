@@ -11,7 +11,7 @@
 
 
 ## Problem Statement
-You are required to develop a chatbot that can handle NLP (natural language processing). This bot will browse and show a catalog of our products, while also having specific filter or assist mode (example show me products which have Eye Vision). Should have easy integration capabilities to talk to multiple sources to retrieve data, as not all of our product information is stored together. However, we do have unique identifiers (like product code) across our sources that can be leveraged.
+We were required to develop a chatbot that can handle NLP (natural language processing). This bot browses and shows a catalog of the products, while also having specific filter or assist mode (example show me products which have Eye Vision). The bot has easy integration capabilities to talk to multiple sources to retrieve data.
 
 ## About
 
