@@ -1,0 +1,14 @@
+requests==2.24.0
+tensorflow==2.1.0
+pandas==0.24.2
+numpy==1.16.6
+streamlit==0.55.2
+matplotlib==2.2.5
+bert_serving==0.0.1
+df2gspread==1.0.4
+gsheetsdb==0.1.13
+gspread==3.7.0
+gspread_dataframe==3.2.1
+protobuf==3.17.3
+pyngrok==5.0.5
+scikit_learn==0.24.2
