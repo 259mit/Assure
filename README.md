@@ -1,7 +1,6 @@
 # Assure
 
 ### *Health Product Query Chat-Bot*
-### *Bajaj Finserv HackRx 2.0 - PS9 Bot for Product Queries*
 
 ## Table Of Contents
   - [Problem Statement ](#problem-statement)
