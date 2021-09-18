@@ -36,7 +36,7 @@ def main(question_orig):
       if sim>max_sim:
         max_sim=sim
         index_sim = index
-    #print("Questions: ", question)
+    #print("Questions: ", question), optional
     #print("Retrieved: ",AQdf.iloc[index_sim,0])
     return AQdf.iloc[index_sim,1]
 
