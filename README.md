@@ -4,10 +4,11 @@
 
 ## Table Of Contents
   - [Problem Statement ](#problem-statement)
-  - [About](#About)
-  - [Telegram Bot](#Telegram-Bot)
-  - [BERT Model](#BERT-Model)
-  - [Features to be Implemented](#features-to-be-implemented)
+  - [About ](#about)
+  - [Telegram Bot](#telegram-bot)
+  - [BERT Model](#bert-model)
+  - [Tech Stack](#tech-stack)
+  - [Contributors](#contributors)
 
 
 ## Problem Statement
@@ -20,21 +21,26 @@ We were required to develop a chatbot that can handle NLP (natural language proc
 ![AssureBot](AssureBot.gif)
 
 ### Here is the Main UI for the Telegram bot
-!['Telegram Main UI'](https://github.com/HackRx2-0/ps9_data_another_day/blob/e3e91711b72273a051f2148ffde062f8916388dc/Bot_01/Chatbot1.jpeg)
+
+<img src="https://github.com/HackRx2-0/ps9_data_another_day/blob/e3e91711b72273a051f2148ffde062f8916388dc/Bot_01/Chatbot1.jpeg" width="300" />
+
 ### Keyword intent matching
-!['Keyword intent matching'](https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot2.jpeg)
+
+<img src="https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot2.jpeg" width="300" />
+
 ### Facilitating human-like sonversational flow using smalltalk and product recommendation
-!['Human like conversations'](https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot3.jpeg)
+
+<img src="https://github.com/HackRx2-0/ps9_data_another_day/blob/main/Bot_01/Chatbot3.jpeg" width="300" />
 
 
 ## BERT Model
 
 ### Here is the Main UI for the bot based on BERT Model
-!['Main UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/mainui.jpg)
+<img src="https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/mainui.jpg" width="600" />
 #
 #
 ### Here is the Recommendation UI (Continued from Main) for the BERT based Chatbot
-!['Recommend UI BERT'](https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/main2ui.jpg)
+<img src="https://github.com/HackRx2-0/ps9_data_another_day/blob/901195d2c25bc991547cf75680618cbb3567439d/BERT/main2ui.jpg" width="600" />
 
 
 ## Tech Stack
